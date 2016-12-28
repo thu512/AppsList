@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Changjoo\AndroidStudioProjects\AppsList\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="716282ef4c9cc548a073f9d67e4b95915e87875e">
+        <dex dex="C:\Users\Changjoo\AndroidStudioProjects\AppsList\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_e8ae7e29178d721e8ebb1e9326ecc46d4832ac2c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Changjoo\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\Changjoo\AndroidStudioProjects\AppsList\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_700080d6b3589469137cecf6bd3aa3b79c66c320\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Changjoo\AndroidStudioProjects\AppsList\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1917b3a6341eb0d8088b8b4e4118258e984f8baf">
+        <dex dex="C:\Users\Changjoo\AndroidStudioProjects\AppsList\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_0d9249d0b3ddffb5a12914b9ff6708e71cd2bb6c\classes.dex" />
+    </item>
+
+</items>

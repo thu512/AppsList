@@ -1,0 +1,372 @@
+[
+    {
+        "outputFile": "C:\\Users\\Changjoo\\AndroidStudioProjects\\AppsList\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "C:\\Users\\Changjoo\\AndroidStudioProjects\\AppsList\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "C:\\Users\\Changjoo\\AndroidStudioProjects\\AppsList\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 53,
+                    "endOffset": 218
+                },
+                "from": {
+                    "file": "C:\\Users\\Changjoo\\AndroidStudioProjects\\AppsList\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 323,
+                        "endColumn": 53,
+                        "endOffset": 372
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 223,
+                    "endColumn": 45,
+                    "endOffset": 264
+                },
+                "from": {
+                    "file": "C:\\Users\\Changjoo\\AndroidStudioProjects\\AppsList\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 45,
+                        "endOffset": 96
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 269,
+                    "endColumn": 52,
+                    "endOffset": 317
+                },
+                "from": {
+                    "file": "C:\\Users\\Changjoo\\AndroidStudioProjects\\AppsList\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 270,
+                        "endColumn": 52,
+                        "endOffset": 318
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 322,
+                    "endColumn": 49,
+                    "endOffset": 367
+                },
+                "from": {
+                    "file": "C:\\Users\\Changjoo\\AndroidStudioProjects\\AppsList\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 703,
+                        "endColumn": 49,
+                        "endOffset": 748
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 372,
+                    "endColumn": 55,
+                    "endOffset": 423
+                },
+                "from": {
+                    "file": "C:\\Users\\Changjoo\\AndroidStudioProjects\\AppsList\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 477,
+                        "endColumn": 55,
+                        "endOffset": 528
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 428,
+                    "endColumn": 52,
+                    "endOffset": 476
+                },
+                "from": {
+                    "file": "C:\\Users\\Changjoo\\AndroidStudioProjects\\AppsList\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 101,
+                        "endColumn": 52,
+                        "endOffset": 149
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 481,
+                    "endColumn": 48,
+                    "endOffset": 525
+                },
+                "from": {
+                    "file": "C:\\Users\\Changjoo\\AndroidStudioProjects\\AppsList\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 753,
+                        "endColumn": 48,
+                        "endOffset": 797
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 530,
+                    "endColumn": 50,
+                    "endOffset": 576
+                },
+                "from": {
+                    "file": "C:\\Users\\Changjoo\\AndroidStudioProjects\\AppsList\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 154,
+                        "endColumn": 50,
+                        "endOffset": 200
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 581,
+                    "endColumn": 51,
+                    "endOffset": 628
+                },
+                "from": {
+                    "file": "C:\\Users\\Changjoo\\AndroidStudioProjects\\AppsList\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 802,
+                        "endColumn": 51,
+                        "endOffset": 849
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 633,
+                    "endColumn": 54,
+                    "endOffset": 683
+                },
+                "from": {
+                    "file": "C:\\Users\\Changjoo\\AndroidStudioProjects\\AppsList\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 377,
+                        "endColumn": 54,
+                        "endOffset": 427
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 688,
+                    "endColumn": 48,
+                    "endOffset": 732
+                },
+                "from": {
+                    "file": "C:\\Users\\Changjoo\\AndroidStudioProjects\\AppsList\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 654,
+                        "endColumn": 48,
+                        "endOffset": 698
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 737,
+                    "endColumn": 61,
+                    "endOffset": 794
+                },
+                "from": {
+                    "file": "C:\\Users\\Changjoo\\AndroidStudioProjects\\AppsList\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 533,
+                        "endColumn": 61,
+                        "endOffset": 590
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 799,
+                    "endColumn": 58,
+                    "endOffset": 853
+                },
+                "from": {
+                    "file": "C:\\Users\\Changjoo\\AndroidStudioProjects\\AppsList\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 595,
+                        "endColumn": 58,
+                        "endOffset": 649
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 858,
+                    "endColumn": 64,
+                    "endOffset": 918
+                },
+                "from": {
+                    "file": "C:\\Users\\Changjoo\\AndroidStudioProjects\\AppsList\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 205,
+                        "endColumn": 64,
+                        "endOffset": 265
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 923,
+                    "endColumn": 44,
+                    "endOffset": 963
+                },
+                "from": {
+                    "file": "C:\\Users\\Changjoo\\AndroidStudioProjects\\AppsList\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 432,
+                        "endColumn": 44,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 968,
+                    "endLine": 25,
+                    "endColumn": 12,
+                    "endOffset": 1254
+                },
+                "from": {
+                    "file": "C:\\Users\\Changjoo\\AndroidStudioProjects\\AppsList\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1259,
+                    "endLine": 28,
+                    "endColumn": 12,
+                    "endOffset": 1414
+                },
+                "from": {
+                    "file": "C:\\Users\\Changjoo\\AndroidStudioProjects\\AppsList\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            }
+        ]
+    }
+]

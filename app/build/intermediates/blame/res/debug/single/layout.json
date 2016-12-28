@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Changjoo\\AndroidStudioProjects\\AppsList\\app\\build\\intermediates\\res\\merged\\debug\\layout\\apklist_item.xml",
+        "source": "C:\\Users\\Changjoo\\AndroidStudioProjects\\AppsList\\app\\src\\main\\res\\layout\\apklist_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Changjoo\\AndroidStudioProjects\\AppsList\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Users\\Changjoo\\AndroidStudioProjects\\AppsList\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Changjoo\\AndroidStudioProjects\\AppsList\\app\\build\\intermediates\\res\\merged\\debug\\layout\\apkinfo.xml",
+        "source": "C:\\Users\\Changjoo\\AndroidStudioProjects\\AppsList\\app\\src\\main\\res\\layout\\apkinfo.xml"
+    }
+]
